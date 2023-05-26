@@ -88,3 +88,15 @@ C:\Users\vitor.almeida\Desktop\NydusPL\bin\EntityFramework.dll
 C:\Users\vitor.almeida\Desktop\NydusPL\bin\EntityFramework.SqlServer.dll
 C:\Users\vitor.almeida\Desktop\NydusPL\bin\EntityFramework.xml
 C:\Users\vitor.almeida\Desktop\NydusPL\bin\EntityFramework.SqlServer.xml
+C:\Users\vitor.almeida\Desktop\NydusPL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vitor.almeida\Desktop\NydusPL\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\vitor.almeida\Desktop\NydusPL\bin\Unity.Abstractions.dll
+C:\Users\vitor.almeida\Desktop\NydusPL\bin\Unity.Container.dll
+C:\Users\vitor.almeida\Desktop\NydusPL\bin\Unity.Mvc.dll
+C:\Users\vitor.almeida\Desktop\NydusPL\bin\WebActivatorEx.dll
+C:\Users\vitor.almeida\Desktop\NydusPL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vitor.almeida\Desktop\NydusPL\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\vitor.almeida\Desktop\NydusPL\bin\Unity.Abstractions.pdb
+C:\Users\vitor.almeida\Desktop\NydusPL\bin\Unity.Container.pdb
+C:\Users\vitor.almeida\Desktop\NydusPL\bin\Unity.Mvc.pdb
+C:\Users\vitor.almeida\Desktop\NydusPL\bin\Unity.Mvc.xml
